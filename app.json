@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tarea2_far_grad",
+    "slug": "tarea2_far_grad"
+  }
+}
